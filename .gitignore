@@ -3,3 +3,5 @@
 sim
 __pycache__/
 .DS_Store
+*.log
+__pycache__/
